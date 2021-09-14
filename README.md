@@ -10,7 +10,7 @@ Chore is a window into what we are already doing, plus annotation and structure.
 The Chore Graph is a DAG.
 
 Each Chore has:
-  - chore name, no more than three words lowercase, and three syllables desirable
+  - chore name, ideally no more than three words lowercase, and three syllables max desirable
   - an ordered list of sub-chores
   - an ordered list of parent chores
   - a status: not yet started, started, complete
