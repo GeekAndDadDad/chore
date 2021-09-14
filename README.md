@@ -28,6 +28,7 @@ Each Chore has:
   - watchers
   - ordered list of chore references
   - access rights (default to inherited)
+  - a sub-chore that is presently flagged
   - budgets and anything else
 
 The Chore Graph is the primary data structure of chore:
