@@ -1,8 +1,8 @@
 # chore
-Many hands make light work
-Everything is a chore, but project management shouldn't be
-If we make this a business, it'll probably be called the Choring Company
-Our website is chore.us
+Many hands make light work.
+Everything is a chore, but project management shouldn't be.
+If we make this a business, it'll probably be called the Choring Company.
+Our website is chore.us.
 Join the Chore Us!
 
 Chore is a window into what we are already doing, plus annotation and structure.
