@@ -35,7 +35,7 @@ The Chore Graph is the primary data structure of chore:
   - Every milestone is a chore
   - Every process is a template chore tree
 
-Chore is currently envisiond as a single-screen web user interface divided into four quadrants: the flag, the stop, the run, and the kick.
+Chore is currently envisiond as a single-screen web user interface divided into four quadrants: the Flag, the Stop, the Run, and the Kick.
 
 Main screen: resizable four quadrant UI
 
@@ -53,7 +53,7 @@ The Flag:
       - "@username " assigns username chore as chore owner, erases "@username "
       - "#hashtag " adds hashtag to tag list, erases "#hashtag "
       - "chore name:" makes that chore a section grouping
-  - Clicking a chore selects that chore, places its details in the stop, and its work product in the kick
+  - Clicking a chore selects that chore, places its details in the Stop, and its work product in the Kick
   - Right click menu
       - open chore as root in new tab
       - copy chore
@@ -61,4 +61,17 @@ The Flag:
   - L/R arrow keys or clicking within a selected chore edits that chore name
   - shift-down/up arrow expand/collapse sub-chores
   - ctrl-down/up arrow moves currently selected chore down or up within parent's sub-chore list
+
+The Stop:
+  - The Stop displays and allows the editing of an individual chore's details
+
+The Kick:
+  - The kick is an iFrame for the work product link of the chore
+
+The Run:
+  - The Run is the history and conversation log of the chore. Think Slack channel on the root chore.
+  - All changes in the stop logged
+  - Text conversation about the root chore
+  - At the top of the run is the chatter - think Clubhouse
+      - Speaker/mic buttons, bubbles for all users currently on that chore root
   
