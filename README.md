@@ -1,5 +1,5 @@
 # chore
-Many hands make light work.
+Many hands make light work. The taxonomy of work.
 Everything is a chore, but project management shouldn't be.
 If we make this a business, it'll probably be called the Choring Company.
 Our website is chore.us.
@@ -7,7 +7,7 @@ Join the Chore Us!
 
 Chore is a window into what we are already doing, plus annotation and structure.
 
-The Chore Graph is a DAG.
+The Chore Graph is a DAG (Directed Acyclic Graph).
 
 Each Chore has:
   - chore name, ideally no more than three words lowercase, and three syllables max desirable
