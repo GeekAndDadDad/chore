@@ -5,6 +5,8 @@ If we make this a business, it'll probably be called the Choring Company.
 Our website is chore.us.
 Join the Chore Us!
 
+** This readme is presently out of date. Refer to the wireframe slides for added color **
+
 Chore is a window into what we are already doing, plus annotation and structure.
 
 The Chore Graph is the taxonomy of work. The Chore Graph is a DAG (Directed Acyclic Graph) of Chore objects.
